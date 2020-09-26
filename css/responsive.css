@@ -1,0 +1,528 @@
+
+@media (min-width: 320px) {
+    }
+    
+    .hbtn{
+        margin-left:80px!important;
+        margin-top:140px!important;
+
+    }
+  .modal img{
+      border-radius: 50%!important;
+      width: 100px!important;
+      height: 100px;
+      position: relative;
+      top: 70px;
+      margin-left:80px;
+      margin-right: auto;
+      z-index: 1;
+  }
+    .alert{
+        width: 220px!important;
+    }
+    .alert video{
+        width: 180px!important;
+    }
+ }
+
+@media (min-width: 360px) {
+    .hbtn{
+        margin-left:110px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+            margin-left: 0;
+            margin-right: 0;
+    }
+    .alert{
+        width: 220px!important;
+    }
+    .alert video{
+        width: 180px!important;
+    }
+    .f1{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f2{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f3{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f4{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .bx{
+        margin-left: 10px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left: -5px;
+    } 
+    .button{
+        width: 290px;
+    }
+    .header-title h1{
+        font-size: 26px;
+    }
+    .bt2{
+        margin-left:30px!important;
+    }
+    
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left: 105px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+}
+.svg::before{
+    content: 'MD Nahid';
+    position: relative;
+    top: 160px;
+    left: 120px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+ .lgn{
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     position: relative;
+     z-index: 1;
+     top: 70px;
+     left: 100px;
+ }
+
+ .hbtn{
+    margin-left: 105px;
+    margin-top:130px;
+}
+ }
+
+@media (min-width: 480px) { 
+    .hbtn{
+        margin-left:160px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+        margin-left: 0;
+        margin-right: 0;
+}
+    .alert{
+        width: 360px!important;
+    }
+    .alert video{
+        width: 300px!important;
+    }
+    .f1{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f2{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f3{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f4{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .bx{
+        margin-left: 90px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left:55px;
+    } 
+    .bbt{
+        margin-left: 70px!important;
+    }
+    
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left:162px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+}
+.svg::before{
+    content: 'MD Nahid';
+    position: relative;
+    top: 230px;
+    left: 190px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+.lgn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    top: 70px;
+    left: 175px;
+}
+
+
+.hbtn{
+    margin-left: 170px;
+    margin-top:130px;
+}
+.button{
+    width: 377px;
+}
+
+ }
+
+@media (min-width:576px) { 
+    .hbtn{
+        margin-left:190px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+        margin-left: 0;
+        margin-right: 0;
+}
+    .f1{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f2{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f3{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .f4{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center!important;
+    }
+    .bx{
+        margin-left: 95px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left:76px;
+    } 
+    .header-title h1{
+        font-size: 40px;
+    }
+    .bbt{
+        margin-left: 90px!important;
+    }
+      
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left:192px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+
+}
+
+.svg::before{
+    content: 'MD Nahid';
+    position: relative;
+    top: 270px;
+    left:220px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+
+.lgn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    top: 70px;
+    left: 175px;
+}
+.hbtn{
+    margin-left: 190px;
+    margin-top:130px;
+}
+.button{
+    width: 290px;
+}
+.button{
+    width: 377px;
+}
+ }
+
+@media (min-width: 768px) { 
+    .hbtn{
+        margin-left:300px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+        margin-left: 0;
+        margin-right: 0;
+}
+    .f4 button{
+            width: 110px!important;
+    }
+    .ccv{
+        width: 700px;
+    }
+    .bx{
+        margin-left: 95px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left:76px;
+    } 
+
+    .header-title h1{
+        font-size: 50px;
+    }
+    .bbt{
+        margin-left: 40px!important;
+    }
+         
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left:282px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+}
+
+.svg::before{
+    content: 'MD Nahid';
+    position: relative;
+    top:120px;
+    left:20px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+
+.lgn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    top: 70px;
+    left: 180px;
+}
+
+.hbtn{
+    margin-left: 280px;
+    margin-top:130px;
+}
+ }
+
+@media (min-width: 992px) { 
+    .hbtn{
+        margin-left:170px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+        margin-left: 0;
+        margin-right: 0;
+}
+    .alert{
+        width: 580px!important;
+    }
+    .alert video{
+        width: 400px!important;
+        margin-left: 60px!important;
+    }
+    .ccv{
+        width:100%;
+    }
+    .bx{
+        margin-left: 95px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left:76px;
+    } 
+
+    .bbt{
+        margin-left: 90px!important; 
+    }
+           
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left:400px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+}
+ 
+.svg::before{
+    content: 'Avout Me';
+    position: relative;
+    top:140px;
+    left:110px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+   
+.lgn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    top: 70px;
+    left: 180px;
+}
+
+.hbtn{
+    margin-left: 160px;
+    margin-top:130px;
+}
+.button{
+    width: 377px;
+}
+ }
+
+@media (min-width: 1200px) { 
+    .hbtn{
+        margin-left:200px!important;
+        margin-top:140px!important;
+
+    }
+    .modal img{
+        margin-left: 0;
+        margin-right: 0;
+}
+    .bx{
+        margin-left: 95px!important;
+         justify-content: center;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .opt{
+        margin-left:76px;
+    } 
+           
+.tx{
+    position: relative;
+ }
+.tx::before{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    margin-top: 60px;
+    margin-left:490px;
+    border-radius: 40px;
+    background: rgb(255, 136, 0);
+
+}
+
+.svg::before{
+    content: 'MD Nahid';
+    position: relative;
+    top:170px;
+    left:150px;
+    font-size: 40px;
+    
+    z-index: 1;
+}
+
+.lgn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    top: 70px;
+    left: 180px;
+}
+ 
+.hbtn{
+    margin-left: 200px;
+    margin-top:130px;
+}
+.button{
+    width: 377px;
+}
+}
